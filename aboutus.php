@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Feliciano - Free Bootstrap 4 Template by Colorlib</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/ionicons.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css/jquery.timepicker.css">
+
+    
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/ionicons.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css/jquery.timepicker.css">
+
+    
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+ 
+    <div class="py-1 bg-black top">
+    	<div class="container">
+    		<div class="row no-gutters d-flex align-items-start align-items-center px-md-0">
+	    		<div class="col-lg-12 d-block">
+		    		<div class="row d-flex">
+		    			<div class="col-md pr-6 d-flex topper align-items-center">
+                        <span class="text"><img src="images/bkg_06.jpg" height="30" width="140"alt=""></span>
+
+					    	<div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
+						        
+                                <span class="text">+ 94 771151706</span>
+                            
+					    </div>
+					    <div class="col-md pr-2 d-flex topper align-items-center">
+					    	<div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
+						    <span class="text">wasarahometutor@gmail.com</span>
+					    </div>
+					    <div class="col-md-5 pr-4 d-flex topper align-items-center text-lg-right justify-content-end">
+						    <p class="mb-0 register-link"><span>Open hours:</span> <span>Monday - Sunday</span> <span>8:00AM - 9:00PM</span></p>
+					    </div>
+				    </div>
+			    </div>
+		    </div>
+		  </div>
+    </div>
+	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+	    <div class="container">
+	      
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav ml-auto">
+            <img class="subheading" src="images/hmlk.png" width="8%" height="5%">
+	        	<li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
+	        	<li class="nav-item"><a href="index.php" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a href="index.php" class="nav-link">How it works</a></li>
+	        	<li class="nav-item"><a href="login.php" class="nav-link">Request a home visiting teacher</a></li>
+	          <li class="nav-item"><a href="login.php" class="nav-link">Join as a home visiting teacher</a></li>
+	          <li class="nav-item cta"><a href="login.php" class="nav-link" style="margin-right:3px;">Sign in</a></li>
+                <li class="nav-item cta"><a href="Register.php" class="nav-link">Log in</a></li>
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+    <!-- END nav -->
+    
+  
+
+    <section class="ftco-section ftco-no-pt ftco-no-pb">
+    	<div class="container-fluid">
+    		<div class="row">
+    			<div class="col-md-12">
+    				<div class="featured">
+    					
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    </section>
+    
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_3.jpg');" data-stellar-background-ratio="0.5">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row no-gutters slider-text align-items-end justify-content-center">
+          <div class="col-md-9 ftco-animate text-center mb-4">
+            <h1 class="mb-2 bread">About US</h1>
+            
+          </div>
+        </div>
+      </div>
+    </section>
+ss		
+		<section class="ftco-section">
+			<div class="container">
+				<div class="row">
+          <div class="col-lg-8 ftco-animate">
+            <h2 class="subheading">About Us</h2>
+            <p>Hometutor.lk is the first and leading platform that connects the needs of home visiting teachers as
+well as the students who are looking for home visiting teachers. We started our operational activities
+on 01/07/2019 and now we have a basis of 1000 plus students and 1500 plus teachers.</p>
+			<h5>Our company provides two major services.</h5>
+            <ol>
+            <li>We provide you home visiting teachers with our responsibility.</li>
+			<li>We provide the chance to the teachers to connected to the students.</li></ol>
+            <p>In fact as the first major service,</p>
+            <p>Our aim is to provide you the best home visiting teaching service with comfortability, protection, and
+effectiveness.</p>
+<p>We as a company provide the best service to find Home Visiting teachers for students from grade 1
+to A/L in <b>English, Sinhala, and Tamil medium.</b></p>
+<p>Especially <b> both male and female teachers </b>have got registered in our platform. Therefore, you are
+capable of requesting a male or a female teacher according to your preference.</p>
+<p>Moreover, if your child is studying in an international school, we also provide teachers for
+international syllabuses ( Cambridge & Edexcel )</p>
+<p>Second major service that Hometutor.lk provides is connecting students to the home visiting
+teachers. What an effort and how much time did you spend as a home visiting teacher to search for
+a student? But now, it is not necessary. You can get connected to the students easily with our
+company according to your subject.</p>
+            <p>
+              <img src="images/data.png" alt="" class="img-fluid">
+            </p><p>
+              <img src="images/data1.png" alt="" class="img-fluid">
+            </p>
+            <h2>“As we care for the quality of the service the most,
+‘Teachers’ Ratings are directly dependant on the
+comments of the clients.”</h2>
+           
+            
+            
+          
+            </div>
+         
+          
+           <!-- .col-md-8 -->
+
+          <div class="col-lg-4 sidebar ftco-animate">
+             <ul class="list-unstyled open-hours" >
+                <li >Company Name <br><b style="align:center">  WASARA Insitute Of Home Tutors.</b></li><br>
+                <li>Sub Business Platform <br><b> Homevisiting teaching platform</b></li><br>
+                <img src="wasana.jpg" height="200" width="200" alt="">
+               <li >Company CEO <br><b> C.H.M.W.M Madhurangani</b></li><br>
+               <img src="ravishwa.jpg" height="200" width="200" alt="">
+               <li >Director <br><b> S.B.N.D.R Senavirathna</b></li>
+              
+              </ul></div>
+        </div>
+        </div>
+        </section>
+         <footer class="ftco-footer ftco-bg-dark ftco-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">Services</h2>
+              <ul type="none" style="color:white;">
+              <li>Find a home tutor</li>
+              <li>Find an online teacher</li>
+              <li>Register as a home tutor</li>
+              <li>Register as an online teacher</li>
+              <li>Create your own advertisement</li>
+              <li>E-Library</li>
+              <li>Assignment help</li>
+              
+              </ul>
+             
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">Information</h2>
+              <ul class="list-unstyled open-hours" style="color:#F4EBEB">
+                <li class="d-flex"><a href="aboutus.php">About us</a></li>
+                <li class="d-flex"><a href="privacy.php">Privacy &amp; Policy</a></li>
+                <li class="d-flex">Terms &amp; conditions</li>
+                <li class="d-flex">Banner advertisement</li>
+              
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6">
+             <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">About us</h2>
+              <ul class="list-unstyled open-hours" style="color:#F4EBEB">
+                <li class="d-flex">Company Name - WASARA Insitute Of Home Tutors.</li>
+                <li class="d-flex">Sub Business Platform - Homevisiting teaching platform</li>
+                
+               <li class="d-flex">Company CEO - C.H.M.W.M Madhurangani</li>
+               <li class="d-flex">Director - S.B.N.D.R Senavirathna</li>
+              
+              </ul>
+               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
+                <li class="ftco-animate"><a href="mailto:wasarahometutor@gmail.com"><span class="icon-google"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+              </ul>
+            </div>
+          </div>
+          
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+
+            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved 
+  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+  
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/bootstrap-datepicker.js"></script>
+  <script src="js/jquery.timepicker.min.js"></script>
+  <script src="js/scrollax.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="js/google-map.js"></script>
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
